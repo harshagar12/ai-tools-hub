@@ -1,0 +1,23 @@
+# Core Dependencies
+streamlit==1.28.2
+google-generativeai==0.3.1
+pymongo==4.6.1
+python-dotenv==1.0.0
+
+# AI and Image Processing
+azure-cognitiveservices-speech==1.23.0
+imagekit==3.0.0
+Pillow==10.1.0
+
+# Audio Processing
+pydub==0.25.1
+requests==2.31.0
+
+# Testing
+pytest==7.4.3
+pytest-cov==4.1.0
+
+# Optional: Development Tools
+black==23.11.0
+flake8==6.1.0
+mypy==1.7.1
