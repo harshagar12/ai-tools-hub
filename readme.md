@@ -22,7 +22,7 @@ Prerequisites:
 
 Installation:
     1)Clone the repository
-        git clone https://github.com/yourusername/ai-tools-hub.git
+        git clone https://github.com/harshagar12/ai-tools-hub.git
         cd ai-tools-hub
     2)Create virtual environment
         python -m venv venv
