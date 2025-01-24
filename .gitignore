@@ -1,0 +1,66 @@
+# Virtual Environment
+venv/
+.venv
+env/
+ENV/
+*.env
+env.bak/
+venv.bak/
+
+# Python Bytecode and Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.sage.py
+
+# IDE Directories
+.vscode/
+.idea/
+.spyderproject
+.spyproject
+.ropeproject
+
+# Build and Distribution
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+__pypackages__/
+
+# Logs and Temporary Files
+*.log
+*.tmp
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing and Coverage
+htmlcov/
+.coverage
+.coverage.*
+.tox/
+.nox/
+.pytest_cache/
+coverage.xml
+*.cover
+
+# Development and Configuration
+.pdm.toml
+.pdm-python
+.pdm-build/
+.pybuilder/
+target/
+
+# Python Environments and Tools
+.ipynb_checkpoints
+ipython_config.py
+.mypy_cache/
+.dmypy.json
+.pyre/
+.pytype/
+cython_debug/
+
+# Project-Specific Ignores
+*.pypirc
+local_settings.py
